@@ -1,9 +1,9 @@
 {
   "name": "pi-theme-editor",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "private": true,
   "type": "module",
-  "description": "Pi 中文配色編輯器：範本、預覽、確認保存與安全匯入匯出",
+  "description": "Pi 中文模板開關：啟用我的模板，停用還原原本主題",
   "license": "UNLICENSED",
   "keywords": [
     "pi-package",
